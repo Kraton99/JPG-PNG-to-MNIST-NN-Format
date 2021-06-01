@@ -1,2 +1,5 @@
-dog
-cat
+atomic_bomb
+claymore
+landmine
+chemical_bomb
+decoy
